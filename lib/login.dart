@@ -95,7 +95,7 @@ class Login extends StatelessWidget {
                    ),
                     Container(
                       padding: EdgeInsets.only(left:180,top:20 ),
-                      child: Text('Forget Password?', style: TextStyle(
+                      child: Text('Forget password ?', style: TextStyle(
                         fontFamily: 'Barlow',
                           color: Colors.grey[400],
                         fontSize:14,
