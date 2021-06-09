@@ -21,7 +21,7 @@ class Login extends StatelessWidget {
 
               Container(
                 margin:EdgeInsets.only(top: 25, bottom: 5, left: 21),
-                child: Text('Welcome Back,' , style:
+                child: Text('Welcome Back User,' , style:
                 TextStyle  (
                       fontFamily: 'Barlow',
                       fontSize: 28,
@@ -33,7 +33,7 @@ class Login extends StatelessWidget {
 
               Container(
                 margin: EdgeInsets.only(top: 3, bottom: 15, left: 21),
-                child: Text('Sign in to Continue' , style: TextStyle(
+                child: Text('Sign In to Continue' , style: TextStyle(
                   fontFamily: 'Barlow',
                   fontSize:13,
                   fontWeight: FontWeight.w600,
